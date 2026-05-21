@@ -5,6 +5,8 @@ A collection of Python programs focused on problem-solving, logic building, and 
 ### Basics
 - Even/Odd Number
 - Prime Number
+- ### Prime Number Checker
+A Python program that checks whether a number is prime or not using loops and conditions.
 - Factorial
 - Fibonacci Series
 - Palindrome Number
