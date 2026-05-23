@@ -1,6 +1,4 @@
-# ==========================================
 # Fibonacci Series in Python
-# ==========================================
 
 # Fibonacci series is a sequence where:
 # Each number is the sum of the previous two numbers.
@@ -8,9 +6,7 @@
 # Example:
 # 0 1 1 2 3 5 8 13 ...
 
-# ------------------------------------------
 # Function to Generate Fibonacci Series
-# ------------------------------------------
 
 def generate_fibonacci(limit):
 
@@ -31,9 +27,8 @@ def generate_fibonacci(limit):
         second = next_number
 
 
-# ------------------------------------------
+
 # Main Program
-# ------------------------------------------
 
 def main():
 
@@ -67,8 +62,7 @@ def main():
             break
 
 
-# ------------------------------------------
 # Run Program
-# ------------------------------------------
+
 
 main()
