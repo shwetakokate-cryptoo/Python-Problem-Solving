@@ -17,6 +17,8 @@ A Python program that generates Fibonacci numbers using loops and sequence logic
 
 ### Patterns
 - Star Triangle
+- ### Star Triangle Pattern
+A Python program that prints a right-angled star triangle using nested loops.
 - Pyramid Pattern
 - Diamond Pattern
 
