@@ -21,6 +21,8 @@ A Python program that generates Fibonacci numbers using loops and sequence logic
 A Python program that prints a right-angled star triangle using nested loops.
 - Pyramid Pattern
 - Diamond Pattern
+- ### Diamond Pattern
+A Python program that prints a diamond-shaped star pattern using nested loops and spacing logic.
 
 ### Arrays
 - Largest Element
