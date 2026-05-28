@@ -29,6 +29,8 @@ A Python program that prints a diamond-shaped star pattern using nested loops an
 - ### Largest Element in Array
 A Python program that finds the largest element from an array using loops and comparison logic.
 - Second Largest Element
+- ### Second Largest Element in Array
+A Python program that finds the second largest element from an array using comparison logic and loops.
 - Reverse Array
 
 ### Searching Algorithms
