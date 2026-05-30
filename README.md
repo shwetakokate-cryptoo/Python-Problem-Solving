@@ -35,6 +35,8 @@ A Python program that finds the second largest element from an array using compa
 - ### Array Sum
 A Python program that calculates the sum of all elements in an array using loops.
 - Reverse Array
+- ### Reverse Array
+A Python program that reverses the elements of an array using index traversal and loops.
 
 ### Searching Algorithms
 - Linear Search
